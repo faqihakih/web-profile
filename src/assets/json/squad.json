@@ -1,0 +1,22 @@
+[
+    {
+    "id" : 1,
+    "name" : "Web Squad",
+    "desc" : "Squad web adalah squad yang berfokus dalam membahas teknologi seputar pengembangan website baik penjelasan, tools yang digunakan, serta ruang lingkup website."
+},
+    {
+    "id" : 2,
+    "name" : "Mobile Squad",
+    "desc" : "Squad yang berfokus dalam membahas teknologi seputar pengembangan aplikasi mobile baik penjelasan, tools yang digunakan, serta ruang lingkup mobile."
+},
+    {
+    "id" : 3,
+    "name" : "Netwok Squad",
+    "desc" : "Squad yang berfokus dalam pembuatan serta pengelolaan suatu jaringan dengan baik dan memahami konsep dasar yang terdapat dalam suatu jaringan."
+},
+    {
+    "id" : 4,
+    "name" : "UI/UX Squad",
+    "desc" : "Squad yang berperan dalam merancang desain antarmuka dan mengalisis kebiasaan pengguna terhadap sebuah aplikasi baik mobile, website, maupun desktop."
+}
+]
