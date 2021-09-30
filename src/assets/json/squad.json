@@ -2,21 +2,41 @@
     {
     "id" : 1,
     "name" : "Web Squad",
+    "title": "Web Squad Mentor",
+    "mentorName": "M. Rizal Khamami",
+    "exp": "React JS, Html, Css",
+    "hobby": "Bernyanyi",
+    "quotes": "Teteplah bernafas meskipun itu dapat membunuhmu",
     "desc" : "Squad web adalah squad yang berfokus dalam membahas teknologi seputar pengembangan website baik penjelasan, tools yang digunakan, serta ruang lingkup website."
 },
     {
     "id" : 2,
     "name" : "Mobile Squad",
+    "title": "Mobile Squad Mentor",
+    "mentorName": "Khafidul Mualif",
+    "exp": "Kotlin and android development",
+    "hobby": "drink cofee with sunset",
+    "quotes": "Tetaplah bernafas meskipun tidak berguna",
     "desc" : "Squad yang berfokus dalam membahas teknologi seputar pengembangan aplikasi mobile baik penjelasan, tools yang digunakan, serta ruang lingkup mobile."
 },
     {
     "id" : 3,
     "name" : "Netwok Squad",
+    "title": "Network Squad Mentor",
+    "mentorName": "Rizal Khamami",
+    "exp": "Networking Specialist",
+    "hobby": "dont have",
+    "quotes": "Tetaplah bernafas meskipun tidak berguna",
     "desc" : "Squad yang berfokus dalam pembuatan serta pengelolaan suatu jaringan dengan baik dan memahami konsep dasar yang terdapat dalam suatu jaringan."
 },
     {
     "id" : 4,
     "name" : "UI/UX Squad",
+    "title": "UI/UX Squad Mentor",
+    "mentorName": "Shura fadilah",
+    "exp": "Design interface mobile and website",
+    "hobby": "Stalking",
+    "quotes": "Tetaplah bernafas meskipun tidak berguna",
     "desc" : "Squad yang berperan dalam merancang desain antarmuka dan mengalisis kebiasaan pengguna terhadap sebuah aplikasi baik mobile, website, maupun desktop."
 }
 ]

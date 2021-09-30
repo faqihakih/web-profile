@@ -1,14 +1,14 @@
 import React from 'react'
 import { MentorName, Titles } from '../../Atoms'
 
-export default function MentorDesc({title}) {
+export default function MentorDesc({title, mentorName, exp, hobby, quote}) {
     return (
         <div className="pt-36">
             <Titles title={title}/>
-            <MentorName detail="Name" value="Rijal"/>
-            <MentorName detail="Experience" value="React JS, Html, Css"/>
-            <MentorName detail="Hobby" value="Bernyanyi"/>
-            <MentorName detail="Quotes" value="Teteplah bernafas meskipun itu dapat membunuhmu"/>
+            <MentorName detail="Name" value={mentorName}/>
+            <MentorName detail="Experience" value={exp}/>
+            <MentorName detail="Hobby" value={hobby}/>
+            <MentorName detail="Quotes" value={quote}/>
         </div>
     )
 }
